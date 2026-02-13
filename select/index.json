@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "青い栞",
+  "base_artist": "Galileo Galilei",
+  "createdAt": "2026-02-13T20:19:40.253337Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "青い栞",
+      "artist": "Galileo Galilei",
+      "has_synced": true,
+      "path": "select/01_青い栞_Galileo_Galilei.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "青い栞",
+      "artist": "Galileo Galilei",
+      "has_synced": true,
+      "path": "select/02_青い栞_Galileo_Galilei.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "青い栞",
+      "artist": "Galileo Galilei",
+      "has_synced": true,
+      "path": "select/03_青い栞_Galileo_Galilei.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "青い栞",
+      "artist": "Galileo Galilei",
+      "has_synced": true,
+      "path": "select/04_青い栞_Galileo_Galilei.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "青い栞",
+      "artist": "Galileo Galilei",
+      "has_synced": true,
+      "path": "select/05_青い栞_Galileo_Galilei.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "青い栞 - From THE FIRST TAKE",
+      "artist": "Galileo Galilei",
+      "has_synced": true,
+      "path": "select/06_青い栞_-_From_THE_FIRST_TAKE_Galileo_Galilei.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "青い栞 - Aoi Shiori",
+      "artist": "Galileo Galilei",
+      "has_synced": true,
+      "path": "select/07_青い栞_-_Aoi_Shiori_Galileo_Galilei.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "青い栞 - From THE FIRST TAKE",
+      "artist": "Galileo Galilei × 茅野愛衣",
+      "has_synced": true,
+      "path": "select/08_青い栞_-_From_THE_FIRST_TAKE_Galileo_Galilei_×_茅野愛衣.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "青い栞",
+      "artist": "Galileo Galilei",
+      "has_synced": true,
+      "path": "select/09_青い栞_Galileo_Galilei.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "青い栞",
+      "artist": "Galileo Galilei",
+      "has_synced": true,
+      "path": "select/10_青い栞_Galileo_Galilei.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青い栞",
+      "artist": "Galileo Galilei",
+      "has_synced": false,
+      "path": "select/pl_01_青い栞_Galileo_Galilei.txt"
+    }
+  ]
+}
